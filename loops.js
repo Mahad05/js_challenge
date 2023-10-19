@@ -25,3 +25,11 @@ do {
     count++;
 } while (count < 10);
 
+// write an infinte for loop
+for (;;){
+    console.log("hello")
+}
+//write an infinite while loop
+while (true) {
+    console.log("infinite")
+}
